@@ -1,5 +1,5 @@
 package myClass;
 
-public class Worker {
+public class Worker extends Person  {
 
 }
